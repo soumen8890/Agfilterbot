@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/68d28011b2bc356b5db01.png" alt="Lazy Princess Logo">
+  <img src="https://telegra.ph/file/eb607b5c6d542960b5586.jpg" alt="Lazy Princess Logo">
 </p>
 <h1 align="center">
-  <b> Lazy PrincessV2.0 </b>
+  <b> Soumen V2.0 </b>
 </h1>
 
 
@@ -70,13 +70,13 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/LazyDeveloperr/LazyPrincessv2">
+<a href="https://heroku.com/deploy?template=https://github.com/soumen8890/Agfilterbot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
 </details>
 
-<details><summary>Deploy To VPS</summary>
+<details><summary>Deply To VPS</summary>
 <p>
 <pre>
 git clone https://github.com/LazyDeveloperr/LazyPrincessv2
